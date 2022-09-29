@@ -32,6 +32,9 @@ void UpdateBranches(vector<Branch*>& branches, int& current, vector<Vector2f>& p
 
 int main()
 {
+    //Test
+    //Test 1
+    //Test 2
     VideoMode vm(1920, 1080);           //(가로 세로)픽셀 해상도
     RenderWindow window(vm, "Timber!!", Style::Default);
     
